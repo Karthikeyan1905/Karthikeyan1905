@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Karthikeyan
 - 👀 I’m interested in java development
 - 🌱 I’m currently learning c programming
-- 📫 How to reach me linkedin
+- 📫 You can find me on
+-  linkedin(@Karthi Keyan)
+-  github(@Karthikeyan1905)
