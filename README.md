@@ -2,5 +2,5 @@
 - 👀 I’m interested in java development
 - 🌱 I’m currently learning c programming
 - 📫 You can find me on
--  linkedin(@Karthi Keyan)
+-  linkedin(@Karthikeyan S)
 -  github(@Karthikeyan1905)
